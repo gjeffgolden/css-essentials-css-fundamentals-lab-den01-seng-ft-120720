@@ -22,3 +22,7 @@ nav a {
   margin-left:auto;
   background-color:gray;
 }
+
+figcaption {
+  font-size:8px;
+}
