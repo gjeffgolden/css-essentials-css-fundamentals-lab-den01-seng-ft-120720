@@ -15,3 +15,7 @@ header {
   width: 50%;
 }
 
+nav a {
+  padding-right:10px
+  padding-left:10px 
+}
